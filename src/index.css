@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* This for hidding scroll bar and look cool  */
+::-webkit-scrollbar {
+  display: none;
+}
